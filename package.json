@@ -1,0 +1,28 @@
+{
+  "name": "pucrs-calc-area",
+  "version": "1.0.0",
+  "description": "simple library that calculates the area of a square, retangle, triangle and a circle.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test --experimental-test-coverage ./tests/**/*.test.*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriellimma/pucrs-calc-area.git"
+  },
+  "keywords": [
+    "pucrs",
+    "calc-area",
+    "area"
+  ],
+  "author": "Gabriel Silva Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabriellimma/pucrs-calc-area/issues"
+  },
+  "homepage": "https://github.com/gabriellimma/pucrs-calc-area#readme",
+  "dependencies": {
+    "bycontract": "^2.0.11"
+  }
+}
